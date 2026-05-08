@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhysioConnect
 
 Production-ready full-stack physiotherapy marketplace.
@@ -71,3 +72,7 @@ docker compose up --build
 - `DELETE /api/reviews/:id`
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for production deployment.
+=======
+# physioconnect
+AI-Powered Physiotherapy Marketplace
+>>>>>>> d11f2ee2e1a03af3dcc7cfa48d14522210e6f3d9
