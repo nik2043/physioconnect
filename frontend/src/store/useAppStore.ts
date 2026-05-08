@@ -44,7 +44,7 @@ export const useAppStore = create<AppState>((set) => ({
       notifications: [
         {
           id: crypto.randomUUID(),
-          message: `Symptom analysis updated (${symptomResult.urgency} urgency)` ,
+          message: `Symptom analysis updated (${symptomResult.urgency} urgency)`,
           timestamp: Date.now(),
         },
         ...state.notifications,
